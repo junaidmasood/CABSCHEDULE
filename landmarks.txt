@@ -1,0 +1,9 @@
+826 304 Jaipur
+482 352 Jodhpur
+1074 258 Alwar
+940 487 Kota
+629 544 Udaipur
+239 296 Jaiselmer
+548 188 Bikaner
+727 77 Ganganagar
+722 391 Ajmer
